@@ -8,7 +8,7 @@ function NavBar() {
   return (
     <ul className="nav nav-tabs bg-info">
       <li className="nav-item">
-        <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+        <Link to="/React-Portfolio" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
           About Me
         </Link>
       </li>
