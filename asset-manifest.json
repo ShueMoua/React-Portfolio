@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.adb4284d.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.cc3ceb09.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.cc3ceb09.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.8ae80ea0.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.8ae80ea0.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/React-Portfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2f98f3db.chunk.js": "/React-Portfolio/static/js/2.2f98f3db.chunk.js",
+    "static/js/2.2f98f3db.chunk.js.map": "/React-Portfolio/static/js/2.2f98f3db.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/React-Portfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.adb4284d.chunk.css.map": "/React-Portfolio/static/css/main.adb4284d.chunk.css.map",
+    "static/js/2.2f98f3db.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.2f98f3db.chunk.js.LICENSE.txt",
+    "static/media/budget_tracker.7df581bb.JPG": "/React-Portfolio/static/media/budget_tracker.7df581bb.JPG",
+    "static/media/circleMe.54c2a2fa.png": "/React-Portfolio/static/media/circleMe.54c2a2fa.png",
+    "static/media/easy_shopper.16614a02.JPG": "/React-Portfolio/static/media/easy_shopper.16614a02.JPG",
+    "static/media/math-quiz.075461b2.JPG": "/React-Portfolio/static/media/math-quiz.075461b2.JPG",
+    "static/media/note_taker.67287272.JPG": "/React-Portfolio/static/media/note_taker.67287272.JPG",
+    "static/media/password_generator.52254d73.JPG": "/React-Portfolio/static/media/password_generator.52254d73.JPG",
+    "static/media/weather_dashboard.ebb51efc.JPG": "/React-Portfolio/static/media/weather_dashboard.ebb51efc.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ae80ea0.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.2f98f3db.chunk.js",
+    "static/css/main.adb4284d.chunk.css",
+    "static/js/main.cc3ceb09.chunk.js"
+  ]
+}
